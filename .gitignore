@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 HELP.md
+=======
+>>>>>>> docker tutorial 1
 target/
 !.mvn/wrapper/maven-wrapper.jar
 !**/src/main/**/target/
